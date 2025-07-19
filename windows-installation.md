@@ -1,3 +1,7 @@
+---
+title: Windows 11 Installation Guide
+---
+
 # 🖥️ Windows 11 Installation Guide
 
 A step-by-step guide to installing Windows 11 on a compatible system.
